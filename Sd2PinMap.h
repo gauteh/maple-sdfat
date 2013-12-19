@@ -22,7 +22,6 @@
 #define Sd2PinMap_h
 
 #include <stdint.h>
-# include "../buoy.h"
 
 //------------------------------------------------------------------------------
 /** struct for mapping digital pins */

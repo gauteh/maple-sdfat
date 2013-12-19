@@ -18,7 +18,6 @@
  * <http://www.gnu.org/licenses/>.
  */
 
-# include "../buoy.h"
 
 #include <WProgram.h>
 #include "Sd2Card.h"
